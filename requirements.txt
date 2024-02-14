@@ -1,0 +1,3 @@
+openai
+langchain
+streamlit #for e2e application or flask
